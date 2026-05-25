@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I’m pouring out another late-night cup
+> Just to watch the moon keep shining up
+> There’s a quiet kind of heaven in this room
+> When all I hear is your breathing cut through the gloom
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
