@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Watching You Sleep
+
+This log tracks the cryptographic history and versioning for the song **Watching You Sleep** (watching-you-sleep).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:50:54.746297 | `v1` | `0ccceb7787626d3961c50d88219bc4a141f164c0070993c83ee8f84fbf52aedd` | `6b0d00b15bcd0b2d4ef49c91bfe5c3997bb5c13146ab2e26d188ce33ced2eeef` | `2026-05-25_watching-you-sleep-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
